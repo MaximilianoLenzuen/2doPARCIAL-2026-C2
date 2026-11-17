@@ -22,4 +22,4 @@ class Pokemon:
             return self.id == otro.id
         return False
 
-# Ejercicio Teórico:  La identidad es el id y el resto de los atributos el estado. La identidad no debería cambiar ya que es unica y es lo que lo define
+# TEORIA:  La identidad es el id y el resto de los atributos el estado. La identidad no debería cambiar ya que es unica y es lo que lo define
